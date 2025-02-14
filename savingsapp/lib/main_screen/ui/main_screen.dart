@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:savingsapp/utils/extensions.dart';
-import 'package:savingsapp/widgets.dart/gradient_button.dart';
+import 'package:savingsapp/widgets/gradient_button.dart';
 import '../../history_screen/ui/history_screen.dart';
 import '../../savings_entry/bloc/savings_bloc/savings_bloc.dart';
 import '../../savings_entry/ui/savings_entry_screen.dart';
